@@ -154,5 +154,6 @@ This Multiple Disease Prediction System WebApp provides an easy-to-use interface
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
 # Contact
-If you have any questions or suggestions, feel free to contact me at prachetpandav283@gmail.com
->>>>>>> 2d5b402 (Initial commit)
+If you have any questions or suggestions, feel free to contact me at thanigaivelan2004@gmail.com
+
+
